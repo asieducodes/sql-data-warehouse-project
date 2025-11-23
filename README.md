@@ -32,4 +32,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Asiedu Seth Osei**, also known as **Seth Smart**. I’m a computer engineering student, who is passionate about data engineering, analytics, science.
+Hi there! I'm **Asiedu Seth Osei**, also known as **Seth Smart**. I’m a computer engineering student, who is passionate about data engineering, analytics, and science.
