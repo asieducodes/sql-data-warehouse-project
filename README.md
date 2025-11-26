@@ -107,5 +107,26 @@ You are free to use, modify, and share it with proper attribution.
 
 ## 🌟 About Me
 
-Hi! I’m **Asiedu Seth Osei** : a Computer Engineering student passionate about **data engineering, analytics, and data science**.  
+Hi! I’m **Asiedu Seth Osei**, a Computer Engineering student passionate about data engineering, analytics, and data science.  
 This project showcases my understanding of modern data workflows and engineering principles.
+
+---
+
+---
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:asiedusethosei@gmail.com">
+    <img src="https://img.shields.io/badge/Email-asiedusethosei%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/asiedu-seth-osei-130b422b0">
+    <img src="https://img.shields.io/badge/LinkedIn-Asiedu%20Seth%20Osei-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/sethsmart_22">
+    <img src="https://img.shields.io/badge/Instagram-@sethsmart__22-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/sethsmart_22">
+    <img src="https://img.shields.io/badge/Twitter-@sethsmart__22-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+---
